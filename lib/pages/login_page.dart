@@ -28,7 +28,6 @@ class LoginPage extends StatelessWidget{
 		), 
 	), 
 ),
-              // Image.asset('images/gdsc.png', height: 170, width: 170),
               SizedBox(
                 height: 40,
               ),
