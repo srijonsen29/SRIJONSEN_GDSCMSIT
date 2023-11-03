@@ -166,10 +166,7 @@ class _SignUpPageState extends State<SignUpPage> {
                     ),
                   ),
                 ),
-                // SizedBox(
-                //   height: 30,
-                // ),
-
+             
                 ListTile(
                   title: Text('Accept Terms & Conditions'),
                   leading: Checkbox(
